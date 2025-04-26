@@ -1,0 +1,14 @@
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice.Task4\bin\Debug\net9.0\Practice.Task4.exe
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice.Task4\bin\Debug\net9.0\Practice.Task4.deps.json
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice.Task4\bin\Debug\net9.0\Practice.Task4.runtimeconfig.json
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice.Task4\bin\Debug\net9.0\Practice.Task4.dll
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice.Task4\bin\Debug\net9.0\Practice.Task4.pdb
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice.Task4\obj\Debug\net9.0\Practice.Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice.Task4\obj\Debug\net9.0\Practice.Task4.AssemblyInfoInputs.cache
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice.Task4\obj\Debug\net9.0\Practice.Task4.AssemblyInfo.cs
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice.Task4\obj\Debug\net9.0\Practice.Task4.csproj.CoreCompileInputs.cache
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice.Task4\obj\Debug\net9.0\Practice.Task4.dll
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice.Task4\obj\Debug\net9.0\refint\Practice.Task4.dll
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice.Task4\obj\Debug\net9.0\Practice.Task4.pdb
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice.Task4\obj\Debug\net9.0\Practice.Task4.genruntimeconfig.cache
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice.Task4\obj\Debug\net9.0\ref\Practice.Task4.dll

@@ -1,0 +1,14 @@
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Task22\bin\Debug\net9.0\Task22.exe
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Task22\bin\Debug\net9.0\Task22.deps.json
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Task22\bin\Debug\net9.0\Task22.runtimeconfig.json
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Task22\bin\Debug\net9.0\Task22.dll
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Task22\bin\Debug\net9.0\Task22.pdb
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Task22\obj\Debug\net9.0\Task22.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Task22\obj\Debug\net9.0\Task22.AssemblyInfoInputs.cache
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Task22\obj\Debug\net9.0\Task22.AssemblyInfo.cs
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Task22\obj\Debug\net9.0\Task22.csproj.CoreCompileInputs.cache
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Task22\obj\Debug\net9.0\Task22.dll
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Task22\obj\Debug\net9.0\refint\Task22.dll
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Task22\obj\Debug\net9.0\Task22.pdb
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Task22\obj\Debug\net9.0\Task22.genruntimeconfig.cache
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Task22\obj\Debug\net9.0\ref\Task22.dll

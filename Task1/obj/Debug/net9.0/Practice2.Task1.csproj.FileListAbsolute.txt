@@ -1,0 +1,14 @@
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice2.Task1\bin\Debug\net9.0\Practice2.Task1.exe
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice2.Task1\bin\Debug\net9.0\Practice2.Task1.deps.json
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice2.Task1\bin\Debug\net9.0\Practice2.Task1.runtimeconfig.json
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice2.Task1\bin\Debug\net9.0\Practice2.Task1.dll
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice2.Task1\bin\Debug\net9.0\Practice2.Task1.pdb
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice2.Task1\obj\Debug\net9.0\Practice2.Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice2.Task1\obj\Debug\net9.0\Practice2.Task1.AssemblyInfoInputs.cache
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice2.Task1\obj\Debug\net9.0\Practice2.Task1.AssemblyInfo.cs
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice2.Task1\obj\Debug\net9.0\Practice2.Task1.csproj.CoreCompileInputs.cache
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice2.Task1\obj\Debug\net9.0\Practice2.Task1.dll
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice2.Task1\obj\Debug\net9.0\refint\Practice2.Task1.dll
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice2.Task1\obj\Debug\net9.0\Practice2.Task1.pdb
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice2.Task1\obj\Debug\net9.0\Practice2.Task1.genruntimeconfig.cache
+D:\01 work\04 study\practice\25.04.16_C#_programming\Practice\CSharpEducation.Practice2\Practice2.Task1\obj\Debug\net9.0\ref\Practice2.Task1.dll
